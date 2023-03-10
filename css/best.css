@@ -1,0 +1,40 @@
+/* let us begin*/
+ header,footer{
+ 	background-color: #8fbfbc;
+ 	font-family: arial;
+ 	text-align: center;
+ }
+ nav{
+ 	font-variant: small-caps;
+ 	font-size: 150%;
+ }
+
+ .person{
+ 	background-color: #DFE2E5;
+ 	margin: 20px;
+ }
+section{
+	box-sizing: border-box;
+	font-family: "Garamond";
+	font-size: 150%;
+	width: auto;
+
+
+}
+
+a{
+    color:#666666;
+}
+
+/*.btn {
+    border-radius: 20px;
+    display: inline;
+    margin:0;
+}
+
+.btn-alt {
+    border: 1px solid #DFE2E5;
+    padding: 10px 30px;
+}
+*/
+
